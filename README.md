@@ -16,6 +16,7 @@
     <img src="docker.svg" alt="docker" width="64" height="64">
     <img src="mysql.svg" alt="mysql" width="64" height="64">
     <img src="sqlite.svg" alt="sqlite" width="64" height="64">
+    <img src="redis.svg" alt="redis" width="64" height="64">
     <img src="nginx.svg" alt="nginx" width="64" height="64">
     <img src="php.svg" alt="php" width="64" height="64">
     <img src="laravel.svg" alt="laravel" width="64" height="64">
@@ -23,6 +24,7 @@
     <img src="node.svg" alt="node" width="64" height="64">
     <img src="npm.svg" alt="npm" width="64" height="64">
     <img src="bootstrap.svg" alt="bootstrap" width="64" height="64">
+    <img src="swagger.svg" alt="swagger" width="64" height="64">
     <img src="css3.svg" alt="css3" width="64" height="64">
     <img src="git.svg" alt="git" width="64" height="64">
     <img src="html.svg" alt="html" width="64" height="64">
