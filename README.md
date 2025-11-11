@@ -18,10 +18,6 @@
             servers
     </td>
     <td align="center">
-        <img src="network.svg" alt="networks" width="64" height="64">
-            networks
-    </td>
-    <td align="center">
         <img src="bash.svg" alt="bash" width="64" height="64">
             bash
     </td>
@@ -102,10 +98,6 @@
     <td align="center">
         <img src="typescript.svg" alt="typescript" width="64" height="64">
             typescript
-    </td>
-    <td align="center">
-        <img src="vscode.svg" alt="vscode" width="64" height="64">
-            vscode
     </td>
 </tr>
 </table>
