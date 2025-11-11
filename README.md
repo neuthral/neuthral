@@ -1,5 +1,4 @@
 ![](https://capsule-render.vercel.app/api?type=waving&height=128&section=header&reversal=true)
-# neuthral
 
 
 ![Static Badge](https://img.shields.io/badge/linux-enthusiast-orange?style=for-the-badge)
