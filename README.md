@@ -1,4 +1,4 @@
-![city](flatcity.svg)
+![city](shity.svg)
 
 [neuthral.github.io](neuthral.github.io)
 
