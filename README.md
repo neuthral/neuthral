@@ -1,4 +1,6 @@
 ![city](shity.svg)
+
+![crab](red_run_8fps.gif)
 ```bash
     curl -s https://api.github.com/users/neuthral/repos | jq -r '.[].html_url'
     
